@@ -245,6 +245,7 @@
   <project path="device/motorola/shadow" name="ShadowICS/android_device_motorola_shadow" />
   <project path="device/motorola/common" name="ShadowICS/android_device_motorola_common">
   <project path="vendor/motorola" name="ShadowICS/android_vendor_motorola" />
+  <project path="vendor/cyanogen" name="ShadowICS/android_vendor_cyanogen" />
 
   <project path="android" name="ShadowICS/android" />
 </manifest>
